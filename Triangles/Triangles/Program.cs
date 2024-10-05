@@ -4,7 +4,7 @@ using Triangles.controller;
 using Triangles.models;
 
 
-var coordinates = CoordinateParser.Parse("C:\\Users\\kralf\\frida\\uni\\prog\\csharp_gis\\polygon.txt");
+var coordinates = CoordinateParser.Parse("..\\..\\..\\assets\\polygon.txt");
 
 var triangles = Triangulator.Triangulate(coordinates);
 
