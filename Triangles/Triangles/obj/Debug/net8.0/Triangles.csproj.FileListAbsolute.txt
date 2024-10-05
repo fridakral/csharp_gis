@@ -1,0 +1,14 @@
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\bin\Debug\net8.0\Triangles.exe
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\bin\Debug\net8.0\Triangles.deps.json
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\bin\Debug\net8.0\Triangles.runtimeconfig.json
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\bin\Debug\net8.0\Triangles.dll
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\bin\Debug\net8.0\Triangles.pdb
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\obj\Debug\net8.0\Triangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\obj\Debug\net8.0\Triangles.AssemblyInfoInputs.cache
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\obj\Debug\net8.0\Triangles.AssemblyInfo.cs
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\obj\Debug\net8.0\Triangles.csproj.CoreCompileInputs.cache
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\obj\Debug\net8.0\Triangles.dll
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\obj\Debug\net8.0\refint\Triangles.dll
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\obj\Debug\net8.0\Triangles.pdb
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\obj\Debug\net8.0\Triangles.genruntimeconfig.cache
+C:\Users\kralf\frida\uni\prog\csharp_gis\Triangles\Triangles\obj\Debug\net8.0\ref\Triangles.dll
